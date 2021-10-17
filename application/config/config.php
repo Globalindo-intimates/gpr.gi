@@ -1,5 +1,5 @@
 <?php
-defined('BASEPATH') OR exit('No direct script access allowed');
+defined('BASEPATH') or exit('No direct script access allowed');
 
 /*
 |--------------------------------------------------------------------------
@@ -30,8 +30,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 // $config['base_url'] = 'http://192.168.10.85/GI-ProductionReport1/';
 // $config['base_url'] = 'http://192.168.10.3/GI-ProductionReport1/';
 // $config['base_url'] = 'http://192.168.10.5/GI-ProductionReport1-updated/';
-$config['base_url'] = 'http://192.168.10.6/GI-ProductionReport1/';
-// $config['base_url'] = 'http://GPR.gi/';
+// $config['base_url'] = 'http://192.168.10.6/GI-ProductionReport1/';
+$config['base_url'] = 'http://gpr.gi/';
 // $config['base_url'] = 'http://127.0.0.1/GI-ProductionReport2/';
 
 /*
